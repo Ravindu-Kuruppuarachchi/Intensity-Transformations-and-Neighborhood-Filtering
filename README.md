@@ -1,1 +1,1 @@
-# -Intensity-Transformations-and-Neighborhood-Filtering
+# Intensity-Transformations-and-Neighborhood-Filtering
